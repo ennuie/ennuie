@@ -17,8 +17,14 @@
   - [x] Devoir résoudre des erreurs avec de l'aide.
   - [ ] Dormir en cours car le prof dors sur le keyboard. *(Clairement réel)*
 
+### Résaux
+
 <p align="center">
   <br/>
   <a href="https://twitter.com/NecoLeRandom">
     <img alt="rollet.raphael@gmail.com" height="50px" width="50px" src="http://cdn.pixabay.com/photo/2017/08/23/11/30/twitter-2672572_960_720.jpg"/>
   </a>
+
+  <p align="center">
+  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/zR5SA4y0WoSvuARsv2/giphy.gif"/>
+</p>
