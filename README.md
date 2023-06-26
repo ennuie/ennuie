@@ -4,7 +4,7 @@
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/eblY3tDpmvLhh7Er9C/giphy.gif"/>
 </p>
 
-### Le language que j'apprend le plus et le lua ! 🦜
+### Le language que j'apprend le plus est le lua ! 🦜
 
 <h3 align="center">Language Que J'aime:</h3>
 <p align="center"> <a href="https://www.lua.org/manual/5.3/manual.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a> </p>
