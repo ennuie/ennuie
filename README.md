@@ -21,12 +21,14 @@
 
 <p align="center">
   <br/>
-  <a href="https://twitter.com/NecoLeRandom">
-    <img alt="rollet.raphael@gmail.com" height="50px" width="50px" src="http://cdn.pixabay.com/photo/2017/08/23/11/30/twitter-2672572_960_720.jpg"/>
-  </a>
+  <a href="https://store-images.s-microsoft.com/image/apps.45406.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.2a88a418-b96d-44a6-ad4f-5e0ee6289b2c">
+    <img alt="" height="50px" width="50px" src="https://twitter.com/NecoLeRandom"/>
+</p>
 
-  <p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/zR5SA4y0WoSvuARsv2/giphy.gif"/>
+> Oui
+
+<p align="center">
+  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/CioFUnIelg7jyLvgzW/giphy.gif"/>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zwwkk" alt="zwwkk" /></a> </p>
