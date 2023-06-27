@@ -32,6 +32,7 @@
 ### Mon premier script 👨‍💻 : 
 
 <p align="center">
+  <br/>
   <img align="right" width="55%" alt="GIF" src="https://i.imgur.com/Eh5Ms38.jpg"></img>
 </p>
 
