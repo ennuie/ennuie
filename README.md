@@ -32,7 +32,7 @@
 ### Mon premier script 👨‍💻 : 
 
 <p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://imgur.com/Eh5Ms38"/>
+  <img align="right" width="55%" alt="GIF" src="imgur.com/Eh5Ms38"></img>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zwwkk" alt="zwwkk" /></a> </p>
