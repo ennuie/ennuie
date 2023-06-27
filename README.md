@@ -31,8 +31,6 @@
 
 ### Mon premier script 👨‍💻 : 
 
-<p align="center">
-  <img align="right" width="55%" alt="GIF" src="https://imgur.com/Eh5Ms38"></img>
-</p>
+<img align="right" width="55%" alt="GIF" src="https://imgur.com/Eh5Ms38"></img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zwwkk" alt="zwwkk" /></a> </p>
