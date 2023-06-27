@@ -4,6 +4,8 @@
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/eblY3tDpmvLhh7Er9C/giphy.gif"/>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zwwkk&label=Profile%20views&color=0e75b6&style=flat" alt="zwwkk" /> </p>
+
 ### Le language que j'apprend le plus est le lua ! 🦜
 
 <h3 align="center">Language Que J'aime:</h3>
