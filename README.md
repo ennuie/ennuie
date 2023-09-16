@@ -13,7 +13,6 @@
   
 🌱 I’m currently learning : lua
 
-<br />
 [![Discord Presence](https://lanyard.cnrad.dev/api/937342917448708107)](https://discord.com/users/937342917448708107)
 
 ---
