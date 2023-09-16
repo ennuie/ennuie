@@ -1,39 +1,35 @@
-### Bienvenue ```${tonNomEstIci.promis}```, je suis zwk 👋
-
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/eblY3tDpmvLhh7Er9C/giphy.gif"/>
+  <a href="https://github.com/SaltyLTS"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Salty;I+am+a+;Web+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zwwkk&label=Profile%20views&color=0e75b6&style=flat" alt="zwwkk" /> </p>
+---
+<div align="center">
+  
+## 💫About Me :
+  
+🌱 I’m currently learning : lua
 
-### Le language que j'apprend le plus est le lua ! 🦜
+<br />
+[![Discord Presence](https://lanyard.cnrad.dev/api/937342917448708107)](https://discord.com/users/937342917448708107)
 
-<h3 align="center">Language Que J'aime:</h3>
-<p align="center"> <a href="https://www.lua.org/manual/5.3/manual.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a> </p>
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=SaltyLTS&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaltyLTS&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyLTS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/26BRMEFwtMyUchjB6/giphy.gif"></img>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SaltyLTS&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### Bon, ok.. d'accord , je l'avoue j'ai pas tout appris seul dans mon coin et alors ?
-  - [x] Ces personne m'aident à continuer d'essayer.
-  - [x] Apprendre chaque jour est devenu une habitude.
-  - [x] Devoir résoudre des erreurs avec de l'aide.
-  - [ ] Dormir en cours car le prof dors sur le keyboard. *(Clairement réel)*
-
-### Résaux
-
-<p align="center">
-  <br/>
-  <a href="https://twitter.com/NecoLeRandom">
-    <img alt="" height="50px" width="50px" src="https://store-images.s-microsoft.com/image/apps.45406.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.2a88a418-b96d-44a6-ad4f-5e0ee6289b2c"/>
-</p>
-
-> zwk
-
-### Mon premier script 👨‍💻 : 
-
-<p align="center">
-  <br/>
-  <img align="right" width="55%" alt="GIF" src="https://i.imgur.com/Eh5Ms38.jpg"></img>
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zwwkk" alt="zwwkk" /></a> </p>
+---
+![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+![](https://forthebadge.com/images/badges/uses-brains.svg)
+---
+![](https://komarev.com/ghpvc/?username=SaltyLTS&label=Visitors+Count&color=brightgreen)
+</div>
