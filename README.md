@@ -15,10 +15,5 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/937342917448708107)](https://discord.com/users/937342917448708107)
 
----
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
 ![](https://komarev.com/ghpvc/?username=zwwkk&label=Visitors+Count&color=brightgreen)
 </div>
