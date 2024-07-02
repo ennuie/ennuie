@@ -26,5 +26,9 @@
 ## 🏆Trophies:
 ![trophies](https://github-profile-trophy.vercel.app/?username=zwwkk&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
+## ✍️Citation:
+[![citation](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Qui te léche)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
 ![](https://komarev.com/ghpvc/?username=zwwkk&label=Visitors+Count&color=brightgreen)
 </div>
