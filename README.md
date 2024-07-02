@@ -14,5 +14,8 @@
 🌱 I’m currently learning : glua / JavaScript.
 🧶 I learned html and css.
 
+## 💻Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 ![](https://komarev.com/ghpvc/?username=zwwkk&label=Visitors+Count&color=brightgreen)
 </div>
