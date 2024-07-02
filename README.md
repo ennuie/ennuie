@@ -12,6 +12,7 @@
 ## ✨About Me:
   
 🌱 I’m currently learning : glua / JavaScript.
+<br>
 🧶 I learned html and css.
 
 ## 💻Tech Stack:
