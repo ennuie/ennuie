@@ -29,6 +29,8 @@
 ## ✍️Citation:
 [![citation](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=QuiTeLécheEnTaPrésence,TeTrompeEnTonAbsence.)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<img src="https://tenor.com/view/traewockhardt-sad-jjk-jujutsu-kaisen-gif-16591014784735052511">
+
 ---
 ![](https://komarev.com/ghpvc/?username=zwwkk&label=Visitors+Count&color=brightgreen)
 </div>
