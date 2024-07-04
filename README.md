@@ -16,7 +16,7 @@
 🧶 I learned html and css.
 
 ## 💻Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML-23E34F26logo=css3&logoColor=fff) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square) ![lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![c++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) 
+![stack](https://skillicons.dev/icons?i=html,css,js,lua,cpp)
 
 ## 📊Stats:
 
