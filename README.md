@@ -34,5 +34,5 @@
 <img src="https://media1.tenor.com/m/5j8gCzNjAt8AAAAC/traewockhardt-sad.gif">
 
 ---
-![](https://komarev.com/ghpvc/?username=zwwkk&label=Visitors+Count&color=brightgreen)
+<img src="https://count.getloli.com/get/@:zwwkk" alt="zwwkk" />
 </div>
