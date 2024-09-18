@@ -35,4 +35,8 @@
 
 ---
 <img src="https://count.getloli.com/get/@:zwwkk" alt="zwwkk" />
+
+---
+![](https://komarev.com/ghpvc/?username=zwwkk&label=Visitors+Count&color=brightgreen)
+
 </div>
