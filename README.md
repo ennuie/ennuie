@@ -12,8 +12,6 @@
 ## ✨About Me:
   
 🌱 I’m currently learning : glua / JavaScript / C++.
-<br>
-🧶 I learned html and css.
 
 ## 💻Tech Stack:
 ![stack](https://skillicons.dev/icons?i=html,css,js,lua,cpp)
@@ -26,9 +24,6 @@
 
 ## 🏆Trophies:
 ![trophies](https://github-profile-trophy.vercel.app/?username=zwwkk&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-## ✍️Citation:
-[![citation](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=QuiTeLécheEnTaPrésence,TeTrompeEnTonAbsence.)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 <img src="https://media1.tenor.com/m/5j8gCzNjAt8AAAAC/traewockhardt-sad.gif">
