@@ -29,6 +29,6 @@
 <img src="https://media1.tenor.com/m/5j8gCzNjAt8AAAAC/traewockhardt-sad.gif">
 
 ---
-<img src="https://count.getloli.com/get/@:zwwkk" alt="zwwkk" />
+<img src="https://count.getloli.com/get/@:zwwkk">
 
 </div>
