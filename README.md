@@ -18,9 +18,9 @@
 
 ## 📊Stats:
 
-![stats](https://github-readme-stats.vercel.app/api?username=zwwkk&theme=radical)
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=zwwkk&theme=radical&hide_border=false)<br/>
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zwwkk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=ennuie&theme=radical)
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=ennuie&theme=radical&hide_border=false)<br/>
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ennuie&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆Trophies:
 ![trophies](https://github-profile-trophy.vercel.app/?username=zwwkk&theme=discord&no-frame=false&no-bg=false&margin-w=4)
@@ -28,7 +28,5 @@
 ---
 <img src="https://media1.tenor.com/m/5j8gCzNjAt8AAAAC/traewockhardt-sad.gif">
 
----
-<img src="https://count.getloli.com/get/@:zwwkk" alt="zwwkk"/>
 
 </div>
