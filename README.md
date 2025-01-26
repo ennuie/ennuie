@@ -14,7 +14,7 @@
 🌱 I’m currently learning : glua / JavaScript / C++.
 
 ## 💻Tech Stack:
-![stack](https://skillicons.dev/icons?i=html,css,js,lua,cpp)
+![stack](https://skillicons.dev/icons?i=html,css,js,lua,cpp,py)
 
 ## 📊Stats:
 
