@@ -14,7 +14,7 @@
 🌱 I’m currently learning : Python
 
 ## 💻Tech Stack:
-![stack](https://skillicons.dev/icons?i=html,css,js,lua,cpp,py,linux)
+![stack](https://skillicons.dev/icons?i=html,css,js,lua,cpp,py,linux,windows)
 
 ## 📊Stats:
 
