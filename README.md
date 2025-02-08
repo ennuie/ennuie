@@ -26,7 +26,7 @@
 ![trophies](https://github-profile-trophy.vercel.app/?username=ennuie&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-<img src="https://media1.tenor.com/m/5j8gCzNjAt8AAAAC/traewockhardt-sad.gif">
+<img src="https://prnt.sc/KH2vYGkqYlQ_">
 
 
 </div>
