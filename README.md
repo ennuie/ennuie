@@ -26,7 +26,7 @@
 ![trophies](https://github-profile-trophy.vercel.app/?username=ennuie&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-<img src="https://cdn.discordapp.com/attachments/1320329545055731715/1337868153899847772/image.png?ex=67a90250&is=67a7b0d0&hm=e582ae44217ab636cf4443e62a8f9f079b28d7fd690ddaccd37c2f9f216afc09">
+<img src="https://cdn.discordapp.com/attachments/1320329545055731715/1338166350547259443/image1.png?ex=67aa1807&is=67a8c687&hm=c61d474123636908b91125ef81e979517365ff30f24bbbc050a8a32a55b3df60">
 
 
 </div>
